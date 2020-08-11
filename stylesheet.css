@@ -1,0 +1,107 @@
+body {
+  font-family:筑紫B丸ゴシック ;
+  width: 100%;
+}
+
+
+
+
+
+li {
+	list-style: none;
+}
+header {
+	width:100%;
+}
+.header-title {
+	width: 525px;
+	font-size: 15px;
+	letter-spacing: 10px;
+	font-style: italic;
+	background:linear-gradient(transparent 60%, #cfb4b7 60%);
+	margin: 30px auto;
+}
+
+
+.header-list {
+	padding: 0.1px 0;/*上下の余白*/
+  	border-top: solid 2px #939191;/*上線*/
+  	border-bottom: solid 2px #939191;/*下線*/
+  	font-family: Yeseva One;
+  	letter-spacing: 10px;
+
+}
+
+.list {
+	font-size:20px;
+	text-align: center;
+
+}
+
+
+ .list li {
+ 	display: inline-block;
+  	display: inline;
+  	padding-right: 70px;
+ 	
+}
+
+.top-flower {
+	float: right;
+	position: relative;
+}
+
+.top-title {
+	text-align: center;
+	position: absolute;
+}
+
+.top-title h1 {
+	font-size: 70px;
+	letter-spacing: 10px;
+	color:#434141;
+	font-weight: lighter;
+	font-family: Baskerville;
+	padding: 80px;
+	margin:0 auto; 
+}
+
+.line {
+	border-bottom: solid 1.15px #956167;
+	padding: 50px;
+}
+
+.top-info {
+font-size:20px;
+font-family: IPAex明朝;
+font-weight: lighter;
+line-height: 40px;
+padding-bottom: 20px;
+letter-spacing: 7px;
+}
+
+.botton {
+	font-family: IPAex明朝;
+	font-size:25px;
+	letter-spacing: 10px;
+	padding:10px;
+	background-color:#b0858c;
+	color: white;
+	border-radius: 10px;
+	width: 150px;
+	margin: 0 auto;
+	text-decoration: none;
+	position: relative;
+}
+
+a:hover {
+ background-color: #926c72;
+}
+
+
+
+
+
+
+
+
